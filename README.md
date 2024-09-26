@@ -1,4 +1,8 @@
-<div align="center">I'm Trinh, Quoc Khanh, a programmer, a 4th year student 👨‍💻 working freelance 🚀</div>
+<div align="center">
+  <h2>I'm Trinh Quoc Khanh</h2>
+  <p>A programmer, a 4th year student 👨‍💻, working freelance 🚀</p>
+</div>
+
 ###
 
 <div align="center">
