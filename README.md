@@ -8,10 +8,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
