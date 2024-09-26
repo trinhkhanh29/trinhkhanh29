@@ -13,10 +13,9 @@
 
 <div style="display: flex; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=trinhkhanh29&show_icons=true&count_private=true&hide_border=true" alt="Trinh Khanh's GitHub Stats" style="height: 180px; width: auto;" />
+    <img src="https://media.giphy.com/media/LBFPLXkgoVm80dx6sP/giphy.gif" alt="Animated GIF" style="height: 180px; width: auto; margin-right: 0;" />
 </div>
-<div style="text-align: right;">
-  <img src="https://media.giphy.com/media/LBFPLXkgoVm80dx6sP/giphy.gif" alt="Animated GIF" style="height: 180px; width: auto; margin-right: 0;" />
-</div>
+
 
 ###
 
