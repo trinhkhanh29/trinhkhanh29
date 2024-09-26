@@ -111,11 +111,8 @@
 </div>  
 
 ###
-![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 <div style="text-align: center;">
   <img src="https://i.pinimg.com/originals/61/8f/08/618f083c61a7460ce0a6064319af41bd.gif" alt="Animated GIF" style="max-width: 100%; height: auto;" />
 </div>
-<div style="text-align: center;">
-  <img src="https://i.pinimg.com/originals/ed/23/9d/ed239ddc0e23afd424de14db792c6bf8.gif" alt="Animated GIF" style="max-width: 100%; height: auto;" />
-</div>
+
 ###
