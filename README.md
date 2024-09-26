@@ -109,7 +109,6 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  <img src="https://i.pinimg.com/originals/b4/9d/3e/b49d3e861f2a06ba58bd8d5d2b9c9cf5.gif" alt="Your GIF" style="max-width: 100%; height: auto;" />
 
 ###
 <div align="center">
