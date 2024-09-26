@@ -2,7 +2,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trinhkhanh29&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="Trinh Khanh's GitHub Stats Detailed" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=trinhkhanh29&show_icons=true&count_private=true&hide_border=true" alt="Trinh Khanh's GitHub Stats" />
 </div>
 
 <div align="center">
