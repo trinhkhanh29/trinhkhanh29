@@ -112,5 +112,8 @@
 
 ###
 ![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
-
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" style="height: 180px; width: auto; margin-right: 10px;" />
+  <img src="https://media.dev.to/cdn-cgi/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2F9mtznxfpdeuq48ed1el8.gif" alt="Animated GIF" style="height: 180px; width: auto;" />
+</div>
 ###
