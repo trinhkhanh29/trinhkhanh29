@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>I'm Trinh Quoc Khanh</h2>
+  <h1>I'm Trinh Quoc Khanh</h2>
   <p>A programmer, a 4th year student 👨‍💻, working freelance 🚀</p>
 </div>
 
