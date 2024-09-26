@@ -11,10 +11,12 @@
 
 ###
 
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=trinhkhanh29&show_icons=true&count_private=true&hide_border=true" alt="Trinh Khanh's GitHub Stats" style="height: 180px; width: auto;" />
 </div>
-
+<div style="text-align: left;">
+  <img src="https://media.giphy.com/media/LBFPLXkgoVm80dx6sP/giphy.gif" alt="Animated GIF" style="height: 180px; width: auto; margin-left: 0;" />
+</div>
 ###
 
 ## My Skill Set  
