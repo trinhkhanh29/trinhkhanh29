@@ -97,7 +97,7 @@
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/trinhkhanh29" target="_blank">
-<img src=https://www.logo.wine/a/logo/GitHub/GitHub-Logo.wine.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px; width:10px" />
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px; width:10px" />
 </a>
 <a href="https://linkedin.com/in/trinhkhanhh/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
