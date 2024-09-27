@@ -21,7 +21,7 @@
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+<div align="center" style="display: flex; flex-wrap: nowrap; justify-content: center;">
     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
         <img style="margin: 5px;" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />
     </a>  
