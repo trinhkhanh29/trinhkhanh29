@@ -586,7 +586,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="x267ZFpgXz-0fo8CcjPM-51" value="&lt;div&gt;&amp;nbsp;Use Case: Tạo tài khoản mới&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="20" width="510" height="200" as="geometry" />
+          <mxGeometry x="90" y="90" width="510" height="200" as="geometry" />
         </mxCell>
         <mxCell id="x267ZFpgXz-0fo8CcjPM-52" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="x267ZFpgXz-0fo8CcjPM-51">
           <mxGeometry x="40" y="90" width="30" height="60" as="geometry" />
@@ -629,7 +629,7 @@
           <mxGeometry x="330" y="120" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x267ZFpgXz-0fo8CcjPM-61" value="&lt;div&gt;Use Case: Đăng nhập&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="230" width="510" height="200" as="geometry" />
+          <mxGeometry x="90" y="300" width="510" height="200" as="geometry" />
         </mxCell>
         <mxCell id="x267ZFpgXz-0fo8CcjPM-62" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="x267ZFpgXz-0fo8CcjPM-61">
           <mxGeometry x="40" y="90" width="30" height="60" as="geometry" />
@@ -672,7 +672,7 @@
           <mxGeometry x="330" y="120" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x267ZFpgXz-0fo8CcjPM-71" value="&lt;div&gt;Use Case: Quản lý người dùng&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="450" width="510" height="400" as="geometry" />
+          <mxGeometry x="90" y="520" width="510" height="400" as="geometry" />
         </mxCell>
         <mxCell id="x267ZFpgXz-0fo8CcjPM-72" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="x267ZFpgXz-0fo8CcjPM-71">
           <mxGeometry x="10" y="160" width="30" height="60" as="geometry" />
@@ -757,7 +757,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="x267ZFpgXz-0fo8CcjPM-91" value="&lt;div&gt;Use Case: Quản lý tài khoản&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="860" width="510" height="350" as="geometry" />
+          <mxGeometry x="90" y="930" width="510" height="350" as="geometry" />
         </mxCell>
         <mxCell id="x267ZFpgXz-0fo8CcjPM-92" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="x267ZFpgXz-0fo8CcjPM-91">
           <mxGeometry x="10" y="160" width="30" height="60" as="geometry" />
@@ -828,7 +828,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="x267ZFpgXz-0fo8CcjPM-110" value="&lt;div&gt;Use Case: Quản lý giao dịch&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="1220" width="510" height="400" as="geometry" />
+          <mxGeometry x="90" y="1290" width="510" height="400" as="geometry" />
         </mxCell>
         <mxCell id="x267ZFpgXz-0fo8CcjPM-111" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="x267ZFpgXz-0fo8CcjPM-110">
           <mxGeometry x="10" y="160" width="30" height="60" as="geometry" />
@@ -913,7 +913,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="x267ZFpgXz-0fo8CcjPM-129" value="&lt;div&gt;Use Case: Lập kế hoạch&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="20" width="510" height="400" as="geometry" />
+          <mxGeometry x="660" y="90" width="510" height="400" as="geometry" />
         </mxCell>
         <mxCell id="x267ZFpgXz-0fo8CcjPM-130" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="x267ZFpgXz-0fo8CcjPM-129">
           <mxGeometry x="10" y="160" width="30" height="60" as="geometry" />
@@ -998,7 +998,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="x267ZFpgXz-0fo8CcjPM-148" value="&lt;div&gt;Use Case: Thống kê&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="430" width="510" height="400" as="geometry" />
+          <mxGeometry x="660" y="500" width="510" height="400" as="geometry" />
         </mxCell>
         <mxCell id="x267ZFpgXz-0fo8CcjPM-149" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="x267ZFpgXz-0fo8CcjPM-148">
           <mxGeometry x="10" y="160" width="30" height="60" as="geometry" />
@@ -1083,7 +1083,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="x267ZFpgXz-0fo8CcjPM-167" value="&lt;div&gt;Use Case: Gợi ý tiết kiệm&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="840" width="510" height="260" as="geometry" />
+          <mxGeometry x="660" y="910" width="510" height="260" as="geometry" />
         </mxCell>
         <mxCell id="x267ZFpgXz-0fo8CcjPM-168" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="x267ZFpgXz-0fo8CcjPM-167">
           <mxGeometry x="20" y="110" width="30" height="60" as="geometry" />
