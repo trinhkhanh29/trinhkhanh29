@@ -1432,7 +1432,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IjeBOTOCtE2UgRn_Pon6" name="DFD Mức 1">
-    <mxGraphModel dx="1261" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2653" dy="1857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1712,7 +1712,7 @@
           <mxGeometry x="271" y="330" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mw6xjyjpPKYAZSPxNYoH-156" value="&lt;div&gt;3.4 DFD Mức 1 cho Quy trình 4: Quản lý tài khoản&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1550" y="870" width="420" height="350" as="geometry" />
+          <mxGeometry x="960" y="1300" width="420" height="350" as="geometry" />
         </mxCell>
         <mxCell id="Mw6xjyjpPKYAZSPxNYoH-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Mw6xjyjpPKYAZSPxNYoH-156" source="Mw6xjyjpPKYAZSPxNYoH-193" target="Mw6xjyjpPKYAZSPxNYoH-196">
           <mxGeometry relative="1" as="geometry" />
@@ -1759,7 +1759,7 @@
           <mxGeometry x="145" y="290" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mw6xjyjpPKYAZSPxNYoH-203" value="&lt;div&gt;&lt;h4&gt;3.5 DFD Mức 1 cho Quy trình 5: Quản lý giao dịch&lt;/h4&gt;&lt;div class=&quot;not-prose&quot;&gt;&lt;div class=&quot;relative [&amp;amp;_div+div]:!mt-0 mt-3 mb-3 -mx-4 -mr-2 @md:-mr-4&quot;&gt;&lt;div class=&quot;flex flex-row px-4 py-2 h-10 items-center rounded-t-xl bg-popover&quot;&gt;&lt;span class=&quot;font-mono text-xs&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="1300" width="660" height="400" as="geometry" />
+          <mxGeometry x="960" y="1690" width="660" height="400" as="geometry" />
         </mxCell>
         <mxCell id="Mw6xjyjpPKYAZSPxNYoH-229" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Mw6xjyjpPKYAZSPxNYoH-203" source="Mw6xjyjpPKYAZSPxNYoH-231" target="Mw6xjyjpPKYAZSPxNYoH-238">
           <mxGeometry relative="1" as="geometry" />
@@ -1893,7 +1893,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Mw6xjyjpPKYAZSPxNYoH-258" value="&lt;div&gt;3.6 DFD Mức 1 cho Quy trình 6: Lập kế hoạch&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="960" y="1720" width="660" height="370" as="geometry" />
+          <mxGeometry x="960" y="2110" width="660" height="370" as="geometry" />
         </mxCell>
         <mxCell id="Mw6xjyjpPKYAZSPxNYoH-287" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Mw6xjyjpPKYAZSPxNYoH-258" source="Mw6xjyjpPKYAZSPxNYoH-289" target="Mw6xjyjpPKYAZSPxNYoH-296">
           <mxGeometry relative="1" as="geometry" />
@@ -1986,7 +1986,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Mw6xjyjpPKYAZSPxNYoH-309" value="&lt;div&gt;&lt;h4&gt;3.7 DFD Mức 1 cho Quy trình 7: Thống kê&lt;/h4&gt;&lt;div class=&quot;not-prose&quot;&gt;&lt;div class=&quot;relative [&amp;amp;_div+div]:!mt-0 mt-3 mb-3 -mx-4 -mr-2 @md:-mr-4&quot;&gt;&lt;div class=&quot;flex flex-row px-4 py-2 h-10 items-center rounded-t-xl bg-popover&quot;&gt;&lt;span class=&quot;font-mono text-xs&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="2110" width="760" height="420" as="geometry" />
+          <mxGeometry x="960" y="2500" width="760" height="420" as="geometry" />
         </mxCell>
         <mxCell id="Mw6xjyjpPKYAZSPxNYoH-370" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Mw6xjyjpPKYAZSPxNYoH-309" source="Mw6xjyjpPKYAZSPxNYoH-372" target="Mw6xjyjpPKYAZSPxNYoH-379">
           <mxGeometry relative="1" as="geometry" />
@@ -2116,7 +2116,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Mw6xjyjpPKYAZSPxNYoH-399" value="&lt;div&gt;&lt;h4&gt;3.8 DFD Mức 1 cho Quy trình 8: Gợi ý tiết kiệm&lt;/h4&gt;&lt;div class=&quot;not-prose&quot;&gt;&lt;div class=&quot;relative [&amp;amp;_div+div]:!mt-0 mt-3 mb-3 -mx-4 -mr-2 @md:-mr-4&quot;&gt;&lt;div class=&quot;flex flex-row px-4 py-2 h-10 items-center rounded-t-xl bg-popover&quot;&gt;&lt;span class=&quot;font-mono text-xs&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="2550" width="480" height="340" as="geometry" />
+          <mxGeometry x="960" y="2940" width="480" height="340" as="geometry" />
         </mxCell>
         <mxCell id="Mw6xjyjpPKYAZSPxNYoH-401" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Mw6xjyjpPKYAZSPxNYoH-399" source="z7Hcnhy3moM0CE2EzEFX-80" target="z7Hcnhy3moM0CE2EzEFX-83">
           <mxGeometry relative="1" as="geometry" />
