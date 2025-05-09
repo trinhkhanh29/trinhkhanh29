@@ -86,9 +86,6 @@
 <a href="https://dotnet.microsoft.com/download" target="_blank">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" />
 </a>  
-<a href="https://www.php.net/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
-</a>  
 </div>
 
 </td></tr></table>
