@@ -1,92 +1,70 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I%20am%20Trinh%20Quoc%20Khanh&descAlignY=51&descAlign=62" width="100%" alt="Header Banner" />
-  
-  <h1>👨‍💻 Software Engineer | 🤖 AIoT Researcher</h1>
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=3366CC&center=true&vCenter=true&width=600&lines=Building+Smart+Solutions+with+AI+%26+IoT;Aspiring+Master's+Student+in+Software+Engineering;Turning+Coffee+into+Code;Open+to+Collaboration+and+Research" alt="Typing SVG" />
-  </a>
+  <h1>Hi 
+    <a href="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" target="_blank">
+      <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="Animated Image" width="35">
+    </a>, I'm Trinh Quoc Khanh
+  </h1>
+  <p>A programmer, a 4th year student 👨‍💻, working freelance 🚀</p>
 </div>
-
-<div align="center">
-  <a href="https://github.com/trinhkhanh29"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://linkedin.com/in/trinhkhanhh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.facebook.com/lawyer.trinh/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
-  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-</div>
-
-<br/>
-
-## 🧐 About Me
-
-I am a final-year Information Technology student at **Viet-Hung Industrial University (VIU)** with a strong passion for **AIoT (Artificial Intelligence of Things)** and **System Engineering**. I bridge the gap between hardware intelligence and software solutions.
-
-- 🎓 **Education:** Information Technology (GPA: **3.28/4.0**)
-- 🔭 **Focus:** Computer Vision, Embedded Systems (ESP32), Cloud Integration.
-- 🌱 **Goal:** Pursuing a Master's degree in **Software Engineering** (Targeting Russia 🇷🇺).
-- 🏆 **Achievement:**
-    - **2nd Prize** in University Scientific Research Competition (2023–2024).
-    - Undergraduate Thesis: **AI–IoT Smart Lock System** (Report: 9.5/10, Defense: 9.4/10).
 
 ---
 
-## 🛠️ My Technical Arsenal
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=trinhkhanh29&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" height="180">
+  <img src="https://media.giphy.com/media/LBFPLXkgoVm80dx6sP/giphy.gif" alt="Animated GIF" height="180">
+</div>
+
+---
+
+## My Skill Set
 
 <table width="100%">
-  <tr>
-    <td align="center" width="25%"><strong>Languages</strong></td>
-    <td align="center" width="25%"><strong>AI & IoT</strong></td>
-    <td align="center" width="25%"><strong>Backend & Cloud</strong></td>
-    <td align="center" width="25%"><strong>Tools & Creative</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=python,cs,cpp,js" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,opencv,tensorflow" /><br>
-      <sub>ESP32, Face Recog</sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,dotnet,firebase,mongodb" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,vscode,postman,ps,ai,pr" />
-    </td>
-  </tr>
+<tr>
+<td valign="top" width="50%">
+
+### Frontend
+<div align="center" style="display:flex; flex-wrap: wrap; justify-content: center; gap:10px;">
+<a href="https://www.adobe.com/products/illustrator.html"><img src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50"></a>
+<a href="https://www.adobe.com/products/indesign.html"><img src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="InDesign" height="50"></a>
+<a href="https://www.adobe.com/products/premiere.html"><img src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50"></a>
+<a href="https://www.adobe.com/products/photoshop-lightroom.html"><img src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50"></a>
+<a href="https://www.adobe.com/products/photoshop.html"><img src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50"></a>
+<a href="https://www.w3schools.com/css/"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50"></a>
+<a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50"></a>
+<a href="https://www.cplusplus.com/"><img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50"></a>
+<a href="https://www.python.org/"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50"></a>
+</div>
+
+</td>
+<td valign="top" width="50%">
+
+### Backend
+<div align="center" style="display:flex; flex-wrap: wrap; justify-content: center; gap:10px;">
+<a href="https://www.javascript.com/"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50"></a>
+<a href="https://nodejs.org/"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50"></a>
+<a href="https://redux.js.org/"><img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50"></a>
+<a href="https://dotnet.microsoft.com/download"><img src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".NET Core" height="50"></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50"></a>
+<a href="https://www.python.org/"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50"></a>
+</div>
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 🚀 Featured Projects
+## Connect with me
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **🔐 SmartLock AIoT** | A security system using **Face Recognition** integrated with **ESP32** and a web management portal. Achieved 9.5/10 in Thesis Defense. | `Python` `OpenCV` `ESP32` `Firebase` `.NET` |
-| **🅿️ Smart Parking** | An automated parking management system featuring license plate recognition and real-time slot tracking. | `Node.js` `React` `IoT Sensors` `SQL` |
-| **🎮 Game Sims** | Simulations of classic games (Minecraft mechanics, Snake) to explore algorithmic logic. | `C++` `Python` `Graphics Libs` |
-
----
-
-## 📈 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=trinhkhanh29&theme=flat&no-frame=false&no-bg=true&margin-w=4" alt="trophy" />
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=trinhkhanh29&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinhkhanh29&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-snake.svgshare.com/top/trinhkhanh29/output.svg" alt="Snake Animation" />
+<div align="center" style="display:flex; flex-wrap: wrap; justify-content:center; gap:10px;">
+<a href="https://github.com/trinhkhanh29"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github"></a>
+<a href="https://linkedin.com/in/trinhkhanhh/"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
+<a href="https://www.facebook.com/lawyer.trinh/"><img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"></a>
+<a href="https://instagram.com/lawyer.trinh/"><img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"></a>
 </div>
 
 ---
 
 <div align="center">
-  <p><i>"Stay hungry, stay foolish."</i></p>
-  <img src="https://komarev.com/ghpvc/?username=trinhkhanh29&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://i.pinimg.com/originals/b4/9d/3e/b49d3e861f2a06ba58bd8d5d2b9c9cf5.gif" alt="Footer GIF" style="max-width: 100%; height: auto;">
 </div>
