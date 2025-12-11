@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I%20am%20Trinh%20Quoc%20Khanh&descAlignY=51&descAlign=62" width="100%" alt="Header Banner" />
   
-  <h1>👨‍💻 Software Engineer | 🤖 AIoT Researcher</h1>
+  <h1>👨‍💻 Software Engineer | 🤖 AI & IoT Researcher</h1>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=3366CC&center=true&vCenter=true&width=600&lines=Building+Smart+Solutions+with+AI+%26+IoT;Aspiring+Master's+Student+in+Software+Engineering;Turning+Coffee+into+Code;Open+to+Collaboration+and+Research" alt="Typing SVG" />
   </a>
@@ -25,7 +25,7 @@ I am a final-year Information Technology student at **Viet-Hung Industrial Unive
 - 🌱 **Goal:** Pursuing a Master's degree in **Software Engineering** (Targeting Russia 🇷🇺).
 - 🏆 **Achievement:**
     - **2nd Prize** in University Scientific Research Competition (2023–2024).
-    - Undergraduate Thesis: **AI–IoT Smart Lock System** (Report: 9.5/10, Defense: 9.4/10).
+    - Undergraduate Thesis: **AI–IoT Smart Lock System** (Report: 9.5/10, Defense: 9.5/10).
 
 ---
 
@@ -59,7 +59,7 @@ I am a final-year Information Technology student at **Viet-Hung Industrial Unive
 
 ## 📈 GitHub Statistics
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=trinhkhanh29&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Stats" />
   </a>
@@ -67,7 +67,7 @@ I am a final-year Information Technology student at **Viet-Hung Industrial Unive
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinhkhanh29&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Languages" />
   </a>
-</div>
+</div> -->
 
 <br/>
 
