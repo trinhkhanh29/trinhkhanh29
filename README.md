@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I%20am%20Trinh%20Quoc%20Khanh&descAlignY=51&descAlign=62" width="100%" alt="Header Banner" />
   
   <h1>👨‍💻 Software Engineer | 🤖 AIoT Researcher</h1>
-
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=3366CC&center=true&vCenter=true&width=600&lines=Building+Smart+Solutions+with+AI+%26+IoT;Aspiring+Master's+Student+in+Software+Engineering;Turning+Coffee+into+Code;Open+to+Collaboration+and+Research" alt="Typing SVG" />
   </a>
@@ -81,5 +80,5 @@ I am a final-year Information Technology student at **Viet-Hung Industrial Unive
 ---
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/b4/9d/3e/b49d3e861f2a06ba58bd8d5d2b9c9cf5.gif" alt="Footer GIF" style="max-width: 100%; height: auto;">
+  <img src="https://i.pinimg.com/originals/b4/9d/3e/b49d3e861f2a06ba58bd8d5d2b9c9cf5.gif" alt="Footer GIF" style="max-width: 100%; height: auto;">
 </div>
