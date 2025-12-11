@@ -60,18 +60,12 @@ I am a final-year Information Technology student at **Viet-Hung Industrial Unive
 
 ## 📈 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=trinhkhanh29&theme=flat&no-frame=false&no-bg=true&margin-w=4" alt="trophy" />
-</div>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-<div align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=trinhkhanh29&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinhkhanh29&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=trinhkhanh29&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" height="180">
 
-<div align="center">
-  <img src="https://github-readme-snake.svgshare.com/top/trinhkhanh29/output.svg" alt="Snake Animation" />
+  <img src="https://media.giphy.com/media/LBFPLXkgoVm80dx6sP/giphy.gif" alt="Animated GIF" height="180">
+
 </div>
 
 ---
