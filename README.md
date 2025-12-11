@@ -60,9 +60,11 @@ I am a final-year Information Technology student at **Viet-Hung Industrial Unive
 
 ## 📈 GitHub Statistics
 
-<a href="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" target="_blank">
-      <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="Animated Image" width="35">
-    </a>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=trinhkhanh29&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" height="180">
+  <img src="https://media.giphy.com/media/LBFPLXkgoVm80dx6sP/giphy.gif" alt="Animated GIF" height="180">
+</div>
+
 
 ---
 
